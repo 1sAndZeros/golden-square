@@ -1,4 +1,4 @@
-from lib.gratitudes import Gratitudes
+from testing_bites.lib.gratitudes import Gratitudes
 
 
 class TestGratitudes:

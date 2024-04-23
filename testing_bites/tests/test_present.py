@@ -1,5 +1,5 @@
 import pytest
-from lib.present import Present
+from testing_bites.lib.present import Present
 
 
 class TestPresent:

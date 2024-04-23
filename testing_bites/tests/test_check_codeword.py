@@ -1,4 +1,4 @@
-from lib.check_codeword import check_codeword
+from testing_bites.lib.check_codeword import check_codeword
 
 
 def test_codeword_is_not_correct():
