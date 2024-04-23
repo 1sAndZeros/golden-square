@@ -1,4 +1,4 @@
-from testing_bites.lib.counter import Counter
+from ..lib.counter import Counter
 
 
 class TestCounter:

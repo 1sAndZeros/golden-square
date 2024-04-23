@@ -1,4 +1,4 @@
-from testing_bites.lib.string_builder import StringBuilder
+from ..lib.string_builder import StringBuilder
 
 
 class TestStringBuilder:

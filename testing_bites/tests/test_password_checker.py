@@ -1,5 +1,5 @@
 import pytest
-from testing_bites.lib.password_checker import PasswordChecker
+from ..lib.password_checker import PasswordChecker
 
 
 class TestPresent:

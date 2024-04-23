@@ -1,4 +1,4 @@
-from pairing_challenge_03.lib.high_value import HighValue
+from ..lib.high_value import HighValue
 
 
 def test_instance_initialises_correctly():

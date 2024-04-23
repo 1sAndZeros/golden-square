@@ -1,4 +1,4 @@
-from pairing_challenge_04.lib.most_often import MostOften
+from ..lib.most_often import MostOften
 
 
 def test_initialises_correctly():

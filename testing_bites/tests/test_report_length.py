@@ -1,4 +1,4 @@
-from testing_bites.lib.report_length import report_length
+from ..lib.report_length import report_length
 
 
 def test_check_hello_lowercase_returns_five_in_str_output():
