@@ -2,3 +2,4 @@
 **pycache**
 .pytest*
 .vscode
+.DS_Store
